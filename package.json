@@ -1,0 +1,24 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YNOV-Node-Advanced/signed-cookie-sessions-benjaminths.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YNOV-Node-Advanced/signed-cookie-sessions-benjaminths/issues"
+  },
+  "homepage": "https://github.com/YNOV-Node-Advanced/signed-cookie-sessions-benjaminths#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "crypto": "^1.0.1",
+    "express": "^4.16.3"
+  }
+}
